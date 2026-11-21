@@ -5,7 +5,7 @@ Classifies SMS / WhatsApp messages written in **Hinglish** (Hindi in Roman scrip
 Most scam-detection projects only handle English; this one targets the way people in India actually write.
 
 ## Demo
-🔗 Live demo: <your link>
+🔗 Live demo: <https://hinglish-scam-detector-necsszqk9d2a6eqxehyq4y.streamlit.app/>
 <img src="Project_Screenshot.png" width="600" alt="App screenshot">
 
 
