@@ -1,0 +1,205 @@
+text,label,category
+"Sir aapka SBI YONO account aaj band ho jayega, PAN update nahi hua. Turant is link pe click kare: sbi-yono-kyc.co.in",1,fake_kyc
+"HDFC Bank: Dear cust, ur KYC is incomplete. Account will be suspended today. Update now hdfc-kycverify.in/login",1,fake_kyc
+Aapka Paytm KYC expire ho gaya. Wallet block hone se bachane ke liye 9818XXXXXX par call karein,1,fake_kyc
+ALERT!! Axis bank mein aapka account restrict kar diya gaya hai. Verify karne ke liye apna Aadhaar number reply karo,1,fake_kyc
+"Priya ji, aapke ICICI account ka full KYC pending hai, kal tak nahi kiya toh Rs 5000 penalty lagegi. Click: icici-update.top",1,fake_kyc
+"Dear customer your Aadhaar is not linked with bank, sab services band ho jayengi. Abhi link karein bit.ly/aadh-link",1,fake_kyc
+"Bhai tera PNB ka card block ho gaya kya? Mujhe message aaya ki KYC karo, link bheja hai pnb-kyc-online.com",1,fake_kyc
+Your Airtel Payments Bank KYC will expire in 2 hours. Complete video KYC now: airtel-kyc.xyz,1,fake_kyc
+SBI customer care: Aapke account se suspicious activity hui hai. Account bachane ke liye apni card details bhejein,1,fake_kyc
+Net banking access suspended. Re-activate karne ke liye username password enter karein yahan: secure-netbank.info,1,fake_kyc
+"Dear Sir/Madam, aapka Jan Dhan account KYC ke bina 24 ghante mein freeze ho jayega. Contact: 8765432109",1,fake_kyc
+Kotak Mahindra: aapka mobile number bank se deregister hone wala hai. Abhi re-register karein: kotak-mobile-update.in,1,fake_kyc
+Ab tak apna KYC update nahi kiya? RBI ke naye rules ke hisab se account band hoga. Link: rbi-kyc-norms.online,1,fake_kyc
+"Canara Bank alert: PAN card invalid hai, account hold pe daal diya gaya hai. Call karo turant 7289000111",1,fake_kyc
+Mubarak ho!! Aapka number Jio Lucky Draw mein nikla hai. Rs 25 lakh jeetne ke liye apna naam aur account number bhejein,1,lottery
+You are selected for Amazon Anniversary Gift! Free Samsung phone sirf aapke liye. Claim: amzn-gift.top,1,lottery
+"Congrats! WhatsApp lottery 2026 mein aapne 12,00,000 jeete hain. Winner ID: WL8821. Contact lottery officer 9911223344",1,lottery
+"Aapko Flipkart Big Billion ki taraf se Rs 50000 ka voucher mila hai, 2 ghante mein claim karo warna expire: fk-voucher.click",1,lottery
+"Dear winner, aapka mobile number KBC 25 lakh prize ke liye select hua. Prize release fee Rs 1500 PhonePe karein",1,lottery
+"Bhai maine ye link se iPhone jeeta hai, tu bhi try kar, free hai: bit.ly/free-iphn-win",1,lottery
+"Airtel Thanks: aapne Rs 5,00,000 ka cash prize jeeta hai. Processing charges Rs 2000 bhej ke prize paiye",1,lottery
+Congratulations! Aapko Tata Motors ki taraf se Nexon car lucky draw mein mili hai. RC transfer ke liye Rs 4999 bhejein,1,lottery
+Scratch card jeeta hai aapne! Rs 9999 cashback paane ke liye abhi click karein aur bank details dalein,1,lottery
+Dream11 mega winner! Rs 1 crore aapke naam hai. Tax clear karne ke liye pehle Rs 8000 deposit karein,1,lottery
+Sim card lucky draw: aapne 18 lakh jeete. Sirf aaj claim kar sakte hain. Call: 6200123456,1,lottery
+Facebook lottery winner notice: aapka email select hua hai. Reply karke apna Aadhaar aur bank detail bhejein,1,lottery
+Aap hamare 10 lakhvein customer hain! Gift hamper ke liye delivery charge Rs 299 pay karein: gift-hamper.in,1,lottery
+"Sir maine galti se aapke number pe 5000 bhej diye PhonePe se. Please wapas kar do, bahut zaroori hai, ghar mein emergency hai",1,upi_refund
+Google Pay refund: aapke Rs 2400 phase hue hain. Collect request accept karein aur apna PIN daalein,1,upi_refund
+Aapka electricity bill refund Rs 1850 approve hua hai. Paane ke liye is link par UPI ID enter karein: bijli-refund.in,1,upi_refund
+Paytm cashback Rs 750 credit karne ke liye QR code scan karein aur PIN dalein. Offer sirf 1 ghante ke liye,1,upi_refund
+"Dear customer, order cancel ho gaya. Refund ke liye 'Receive Money' pe tap karke PIN daalein, paise turant aa jayenge",1,upi_refund
+"Bhaiya mera OLX pe payment kar diya hai, aap sirf ye QR scan karke PIN daal do toh paise aa jayenge",1,upi_refund
+Aapka PhonePe account mein Rs 10000 reward aaya hai. Claim karne ke liye screen share app install karein,1,upi_refund
+Refund Rs 3200 pending: Amazon Pay support ne bola ki aap Quick Support app download karo aur 9 digit code bata do,1,upi_refund
+"Sir apka failed transaction ka refund ruka hua hai, process ke liye debit card ke peeche ka CVV bata dijiye",1,upi_refund
+"Aapke account mein excess Rs 15000 credit ho gaye. Bank error hai, kripya turant wapas transfer karein 9654321870 pe",1,upi_refund
+BHIM UPI offer: pehle transaction pe Rs 500 cashback! Bas is link se apna UPI PIN set karein: bhim-cashback.co,1,upi_refund
+IRCTC refund Rs 1240: apni card details update karein warna paisa wapas nahi aayega irctc-refund-help.in,1,upi_refund
+Meesho se refund lene ke liye mujhe apna ATM card ka photo bhej do front aur back dono,1,upi_refund
+"Amazon mein work from home job, Rs 800 per task, daily payment. Telegram join karo: t.me/amz_jobs_india",1,fake_job
+Congratulations! Aap Google mein Data Analyst ke liye select hue hain. Offer letter ke liye Rs 3500 refundable deposit karein,1,fake_job
+Ghar se kaam karke mahine ka 60000 kamao. Sirf like aur subscribe karna hai. WhatsApp karo 9988776655,1,fake_job
+"Hello, I am HR from TCS. Aapka profile pasand aaya. Interview se pehle Rs 2000 registration fee bhejein UPI pe",1,fake_job
+"Part time earning: Instagram reels share karo, per share Rs 40. Pehle Rs 500 ka prepaid task karna hoga",1,fake_job
+"Naukri.com se aapka resume mila. Dubai mein job pakki, visa processing fee Rs 15000 advance bhejein",1,fake_job
+"Task complete karo aur double paisa pao! Pehla task free hai, uske baad deposit karke commission badhao",1,fake_job
+"Airline mein ground staff ki bharti, salary 35k. Uniform aur training ke liye Rs 4000 abhi bhejein",1,fake_job
+"Flipkart delivery partner chahiye. Joining kit ke liye Rs 1999 online jama karein, phir kaam shuru",1,fake_job
+"Hi, kya aap online typing job mein interested hain? Ghar baithe 25000 tak. Pehle ID card fees Rs 999 dena hoga",1,fake_job
+"Railway Group D mein seedhi bharti, bina exam. Seat confirm karne ke liye Rs 20000 advance. Contact 9013572468",1,fake_job
+Aapko Rs 1500 daily kamane ka mauka. Bas hamare crypto app mein invest karo aur kaam shuru karo,1,fake_job
+"WFH HR team: aapko Rs 200 welcome bonus mil chuka hai, withdraw ke liye pehle wallet verify karein Rs 300 se",1,fake_job
+"Sir main SBI head office se bol raha hu. Aapke card pe fraud transaction hua hai, jo 6 digit code aaya wo bata dijiye",1,otp_phishing
+"Madam aapki Amazon delivery ke liye OTP chahiye, jo SMS aaya hai wo bataiye warna parcel return ho jayega",1,otp_phishing
+"Aapka Aadhaar update ho raha hai, mobile pe jo OTP aaya wo share karein. Verification zaroori hai",1,otp_phishing
+"Hello, Airtel se bol rahe hain. Aapka SIM upgrade 4G se 5G karna hai, 6 digit code batayein jo abhi aayega",1,otp_phishing
+ICICI fraud team: aapke account mein unauthorized login hua hai. Block karne ke liye OTP aur card expiry date batao,1,otp_phishing
+"Beta main tumhara chacha hu, naye number se likh raha hu. Ek OTP aayega wo bhej de, bahut zaroori hai",1,otp_phishing
+"Dear user, aapke Gmail ka OTP maine galti se aapke number pe bhej diya. Please wo code mujhe forward kar do",1,otp_phishing
+Paytm support: Aapka account hack ho gaya hai. Secure karne ke liye abhi OTP aur UPI PIN bhejein,1,otp_phishing
+"LIC premium refund ke liye OTP verification chahiye. Aapke phone pe aaya hua code batayein, 2 minute mein process ho jayega",1,otp_phishing
+"Aapke electricity meter ka KYC phone se karna hai. Call aayega, OTP share karna warna connection cut",1,otp_phishing
+"Sir main courier company se hu, delivery address confirm karne ke liye OTP bataiye jo abhi aaya hai",1,otp_phishing
+"WhatsApp verification code galti se aapko chala gaya, please bhej do. Mera account lock ho gaya hai",1,otp_phishing
+"Dear consumer, Ludhiana division: aapka bijli bill ka payment pending hai. Aaj raat 9:30 baje light kat di jayegi. Turant call 8890012345",1,utility_threat
+"Aapke naam par ek parcel mein illegal saamaan mila hai. Mumbai Cyber Crime se officer baat karenge, turant call karein",1,utility_threat
+Aapke Aadhaar se linked SIM se illegal activity hui hai. CBI officer ke saath video call par judein warna arrest hoga,1,utility_threat
+Traffic e-challan Rs 2000 jaari hua hai. Court jaane se bachne ke liye abhi pay karein: echallan-parivahan.xyz,1,utility_threat
+FedEx: aapka parcel customs mein atka hai. Rs 3500 duty bharein warna parcel destroy kar diya jayega,1,utility_threat
+Aapka Jio number 2 ghante mein permanently band hoga. KYC ke liye 9876501234 pe call karein,1,utility_threat
+"Income Tax Department: aapka PAN suspicious transaction mein use hua hai. Turant link pe jaakar apni details verify karein, warna FIR darj hogi",1,utility_threat
+Gas subsidy band hone wali hai. Aaj hi apna bank account link karein: lpg-subsidy-update.in,1,utility_threat
+Aapka water bill Rs 4200 overdue hai. 24 ghante mein pay nahi kiya toh legal notice bheja jayega,1,utility_threat
+"India Post: aapka parcel deliver nahi ho paya, address galat hai. Update karne ke liye Rs 25 pay karein: indiapost-redeliver.top",1,utility_threat
+Aapka FASTag recharge expire ho gaya hai. Block hone se pehle abhi recharge karein: fastag-recharge.click,1,utility_threat
+Notice: Aapke driving licence ka renewal pending hai. Rs 800 fine abhi bharein: parivahan-fine.online,1,utility_threat
+Police verification: aapke naam se drugs ka parcel pakda gaya hai. Case rafa-dafa karne ke liye Rs 50000 bhejein,1,utility_threat
+"Aapko 5 lakh ka instant loan approve hua hai, bina CIBIL, bina documents. Bas Rs 1500 file charge bhejein",1,loan_fraud
+"Hello sir, loan ke liye apply kiya tha? Approval ke liye pehle Rs 3000 insurance premium jama karna padega",1,loan_fraud
+"Pre-approved loan Rs 2,00,000 @ 0% interest. Sirf aaj ke liye. Aadhaar aur selfie bhejein: quickcash-loan.in",1,loan_fraud
+Aapke loan ki EMI bounce ho gayi hai. Contacts ko call kiya jayega agar aaj Rs 4500 pay nahi kiya. Pay: loan-recover.top,1,loan_fraud
+Mudra loan 10 lakh turant pao. Agent fee Rs 2500 pehle bhejna hoga. WhatsApp: 9567812340,1,loan_fraud
+Instant loan app: Rs 20000 turant account mein. Bas apne contacts aur gallery ka access de dijiye,1,loan_fraud
+"Aapka loan sanction ho gaya hai! Disbursal se pehle GST charges Rs 6000 bhejein, 10 min mein paisa aa jayega",1,loan_fraud
+"Home loan 50 lakh approve, koi documentation nahi. Processing fee Rs 10000 abhi jama karein",1,loan_fraud
+"Credit score kharab hai? Koi baat nahi, guaranteed loan Rs 1 lakh. Pehle security deposit Rs 2000 dein",1,loan_fraud
+"Dear customer, aapka loan waive ho sakta hai. Waiver certificate ke liye Rs 999 fee pay karein aur card details bhejein",1,loan_fraud
+Stock market tips! Rs 10000 lagao aur 7 din mein Rs 50000 pao. Guaranteed returns. Join VIP group: t.me/stock_vip_ind,1,investment_scam
+Bitcoin trading mein roz 20% profit. Ek hi din mein paisa double. Abhi register karein: cryptodouble-india.com,1,investment_scam
+"Sir mere trading app mein invest karo, mera khud ka profit screenshot dekho. Minimum Rs 5000 se shuru karo",1,investment_scam
+IPO allotment guaranteed! Sirf Rs 2000 advance bhejiye aur shares apke demat mein pake. Limited seats,1,investment_scam
+Aapko free demat account aur Rs 500 bonus milega. Bas ek link pe apni details bharein: demat-bonus.top,1,investment_scam
+"Hamare Forex group mein judein, 100% sure shot calls. Pehle mahine ki fee Rs 3000. WhatsApp 9300112233",1,investment_scam
+"Rs 1 lakh lagao, mahine ka Rs 30000 interest pao. Bank se bhi zyada return. Call Mr. Sharma 9811122233",1,investment_scam
+"Hello, main aapko trading signals dungi. Pehle ek chhota deposit karke app verify kar lo, phir profit withdraw hoga",1,investment_scam
+"Hi, ye mera naya number hai. Ek urgent kaam hai, Rs 8000 abhi PhonePe kar do, kal wapas kar dunga",1,friend_impersonation
+"Beta main Papa ka dost bol raha hu, accident ho gaya hai, hospital mein paise jama karne hain, jaldi 15000 bhej do",1,friend_impersonation
+"Bhai phone toot gaya hai isliye naye number se msg kar raha hu. Mujhe Rs 5000 chahiye, tu abhi UPI kar de",1,friend_impersonation
+"Hello didi, mera account block hai, aap apne UPI se Rs 3000 transfer kar dijiye, main shaam ko cash de dunga",1,friend_impersonation
+"Sir mai aapka bank manager hu, aapko ek special offer dena hai. Apna card number aur expiry bataiye",1,friend_impersonation
+"Hey, mujhe Amazon gift card chahiye urgent birthday gift ke liye. Tu Rs 2000 ke 2 card le ke code bhej de",1,friend_impersonation
+"Boss: main meeting mein hu, call nahi kar sakta. Jaldi se 10 Google Play gift card le aur code bhej do, baad mein refund karunga",1,friend_impersonation
+"Mama ji ko heart attack aaya hai, hospital ka bill Rs 20000 hai, aap turant is number pe bhej do 9876012345",1,friend_impersonation
+"Bhai kal subah 7 baje gym chalna hai, uthna mat bhulna",0,friends_family
+Mummy ne puchha ki Diwali pe ghar aa rahe ho ya nahi? Ticket book kar lo jaldi,0,friends_family
+"Yaar aaj ka lecture bahut boring tha, canteen chal kuch kha ke aate hain",0,friends_family
+"Papa ne kaha hai ki kal bijli ka bill bhar dena, main aaj raat transfer kar dunga",0,friends_family
+Oye kal wali movie ka plan pakka hai na? 6 baje PVR pe milte hain,0,friends_family
+Bro tera charger le jaaun? Mera kharab ho gaya hai,0,friends_family
+"Didi ki shaadi ka card bhej raha hu, WhatsApp pe dekh lena. Aana zaroor",0,friends_family
+Tu ghar pahunch gaya? Pahunch ke ek missed call de dena,0,friends_family
+"Chacha ji ka call aaya tha, bol rahe the Sunday ko lunch pe aao",0,friends_family
+Happy Diwali bhai! Family ko meri taraf se bhi wish karna,0,friends_family
+"Aaj raat ko bahut baarish hogi, bike mat le jana, auto se aa jana",0,friends_family
+"Arre yaar mujhe paise bhej de, canteen ka bill bharna hai, kal subah wapas kar dunga. Tu abhi college mein hai na?",0,friends_family
+Bhai wo wala Python notes ka PDF bhej de na please,0,friends_family
+"Nani ki tabiyat theek hai ab, doctor ne kaha hai 2 din mein discharge kar denge",0,friends_family
+"Kal match mein Virat ne kya shot maara yaar, maza aa gaya",0,friends_family
+"Tere liye samose bacha ke rakhe hain, jaldi aa ja",0,friends_family
+"Hostel mein wifi nahi chal raha, tere paas hotspot hai kya?",0,friends_family
+"Sunday ko cricket khelne chalenge, 6 baje ground pe pahunch jana",0,friends_family
+Bhai meri bike ki chabi tere paas reh gayi hai kya?,0,friends_family
+"Sab log wapas aa gaye hain, tu bhi ab nikal ja ghar se, dinner ready hai",0,friends_family
+"Rs 1,250.00 debited from A/c XX3345 on 18-Nov-26 to VPA zomato@icici. UPI Ref 6182937410. -SBI",0,bank_alert
+"Your a/c XX7781 is credited with INR 32,000.00 on 20-Nov-26. Salary credit. Avl Bal INR 41,215.40 -HDFC Bank",0,bank_alert
+"Alert: Aapke credit card XX9023 par Rs 4,599 ka transaction hua hai Myntra pe. Agar aapne nahi kiya toh card block karne ke liye bank ki official app kholein.",0,bank_alert
+"Dear customer, your FD of Rs 50,000 has matured. Credited to savings account. -ICICI Bank",0,bank_alert
+Aapka SBI mini statement: last 5 transactions ke liye app mein login karein. Hum kabhi aapse password nahi maangte.,0,bank_alert
+"Your EMI of Rs 6,420 will be debited on 25-Nov-26 from a/c XX2210. Please maintain sufficient balance. -Axis Bank",0,bank_alert
+"Rs 500 withdrawn from ATM on 19-Nov at Ludhiana. Avl bal Rs 8,230. Not you? Call 1800 1234 -PNB",0,bank_alert
+"Reminder: Aapka credit card bill Rs 12,340 ka due date 28 Nov hai. Official app se pay karein. -HDFC",0,bank_alert
+Aapke savings account mein quarterly interest Rs 312.50 credit hua hai. -Bank of Baroda,0,bank_alert
+"Dear customer, aapka debit card renew ho gaya hai aur 5 din mein aapke registered address pe pahunchega. -Kotak",0,bank_alert
+Update: your KYC has been successfully updated. Thank you for visiting branch. -SBI,0,bank_alert
+"Rs 2,000 sent to Rahul via PhonePe. UPI Txn ID 4192837465. Debited from XX1209",0,bank_alert
+Your Fixed Deposit receipt is available. Visit nearest branch with ID proof for any query. -Canara Bank,0,bank_alert
+"Insurance premium Rs 8,500 for policy ending 4412 received. Thank you. -LIC",0,bank_alert
+"Cheque no 004512 for Rs 15,000 has been cleared in your a/c XX6677. -ICICI Bank",0,bank_alert
+482915 is your Swiggy login OTP. Valid for 5 minutes. Do not share with anyone.,0,legit_otp
+Your OTP for transaction of Rs 799 at Amazon is 902611. Never share this OTP with anyone. -HDFC Bank,0,legit_otp
+Use 337204 to log in to your Zomato account. Zomato will never call you for this code.,0,legit_otp
+IRCTC: OTP for ticket booking is 118832. Valid for 10 mins. Kisi ke saath share na karein.,0,legit_otp
+G-441903 is your Google verification code.,0,legit_otp
+"Aapka Jio OTP 650218 hai. Ise kisi ko na batayein, Jio kabhi OTP nahi maangta.",0,legit_otp
+Your Aadhaar OTP is 774120. It is valid for 10 minutes. Do not share. -UIDAI,0,legit_otp
+PhonePe: 205938 aapka verification code hai. Is code ko apne alawa kisi se share na karein.,0,legit_otp
+Your Ola ride OTP is 4291. Share with driver only at pickup.,0,legit_otp
+"Dear customer, OTP for netbanking login is 836025. Bank officials will never ask for your OTP. -SBI",0,legit_otp
+Use code 561782 to verify your Paytm number. Don't share this with anyone.,0,legit_otp
+Flipkart: delivery OTP 7316. Apne delivery partner ko hi batayein jab order milega.,0,legit_otp
+"Your Amazon order #408-1923 is out for delivery today. Delivery agent: Ramesh, 98XXXXXX21.",0,delivery_orders
+Flipkart: Aapka order shipped ho gaya hai. 22 Nov tak deliver hoga. Track karein app mein.,0,delivery_orders
+Blinkit: Aapka order 10 minute mein pahunch raha hai. Rider: Sandeep.,0,delivery_orders
+Swiggy: Aapka order restaurant ne accept kar liya hai. Estimated delivery 35 min.,0,delivery_orders
+Aapka parcel India Post speed post se bheja gaya hai. Tracking ID EE123456789IN. Track karein indiapost.gov.in,0,delivery_orders
+Myntra: aapka return pick up kal 2-6 baje ke beech hoga. Refund 5-7 din mein original payment mode mein aayega.,0,delivery_orders
+"Delivery boy aapke gate pe hai, please door kholein. Order Zomato ka hai.",0,delivery_orders
+"Delhivery: aapka package aaj deliver nahi ho paya, customer available nahi tha. Kal dobara koshish karenge.",0,delivery_orders
+Ajio: your order has been delivered. Humein feedback dein aur next order pe Rs 100 off paayein.,0,delivery_orders
+Aapka Meesho order cancel ho gaya hai out of stock hone ki wajah se. Refund 3 din mein mil jayega.,0,delivery_orders
+BlueDart: shipment arriving tomorrow. Aap delivery time change karne ke liye app mein request kar sakte hain.,0,delivery_orders
+"Dominos: aapka pizza ban raha hai, 20 minute mein delivery hogi. Enjoy!",0,delivery_orders
+"Sir, main kal ki class mein nahi aa paunga, fever hai. Please attendance mark kar dijiye.",0,work_college
+Reminder: Kal 11 baje se Placement Orientation hai auditorium mein. Sabko aana compulsory hai.,0,work_college
+"Team, sprint review kal 4 PM pe hai. Apne tasks update kar dena Jira mein.",0,work_college
+Your interview with Infosys is scheduled for 24 Nov at 11 AM via MS Teams. Link aapki registered email pe bheja gaya hai.,0,work_college
+Aapka internship offer letter email kar diya gaya hai. Kripya sign karke 3 din mein wapas bhejein.,0,work_college
+Exam hall ticket download karne ke liye university ke official portal pe jaayein. Last date 25 Nov.,0,work_college
+Assignment ki deadline 1 din badha di gayi hai. Ab 22 Nov raat 11:59 tak submit kar sakte ho.,0,work_college
+"Hi, HR here. Aapka joining date 1 Dec confirm hai. Documents list email mein hai, koi bhi payment nahi lagegi.",0,work_college
+Project guide ne kaha hai kal 3 baje review meeting hai. Slides ready rakhna.,0,work_college
+Library ki book 'Machine Learning' kal tak return karni hai warna Rs 5 per day fine lagega.,0,work_college
+"Aaj ka mess menu: lunch mein rajma chawal, dinner mein paneer aur roti.",0,work_college
+"Lab record kal jaldi submit kar do, madam ne sabko 9 baje bulaya hai.",0,work_college
+Hackathon registration open hai! College ke official portal se 28 Nov tak register karein.,0,work_college
+"Boss ne bola ki client call 3 baje se 4 baje shift ho gayi hai, calendar update kar liya hai.",0,work_college
+"Aapka Jio recharge Rs 299 successful raha. Validity 28 din, 1.5GB per day. Thank you.",0,services_promo
+Airtel: Aapka data pack 90% use ho gaya hai. Recharge karne ke liye MyAirtel app dekhein.,0,services_promo
+Dr. Gupta ke saath aapki appointment kal 11:30 baje hai. Reschedule ke liye reply karein.,0,services_promo
+Your IndiGo flight 6E-2312 to Delhi departs at 07:45 tomorrow. Web check-in now open.,0,services_promo
+"BookMyShow: Aapki ticket confirm hai. 'Pushpa 2' 7:30 PM, Seat F12, F13. Booking ID: BMS8821.",0,services_promo
+Aapka Netflix subscription kal renew hoga Rs 199. Cancel karne ke liye account settings mein jaayein.,0,services_promo
+Urban Company: aapka technician kal 10 baje aapke ghar aayega. Service: AC repair.,0,services_promo
+Reminder: LIC premium due 30 Nov. Official LIC app ya website se pay karein.,0,services_promo
+Sale alert: Myntra pe End of Reason Sale kal se shuru. Official app mein login karke dekhein.,0,services_promo
+Aapki gas cylinder booking confirm ho gayi hai. Delivery 2-3 din mein. Booking no. 77123.,0,services_promo
+"Dhanyavaad! Aapka electricity bill Rs 1,830 payment successful hua. Receipt app mein available hai. -PSPCL",0,services_promo
+Your Uber trip receipt: Rs 184. Thanks for riding with us.,0,services_promo
+"Bhai tera account number bhej, mujhe kal rent ke paise transfer karne hain",0,tricky_safe
+Urgent! Kal subah 9 baje se pehle assignment submit karna hai warna zero milega. Jaldi kar yaar,0,tricky_safe
+"Yaar bank wale ne bola ki KYC ke liye branch aana padega, tu chalega mere saath kal?",0,tricky_safe
+"Mere phone mein OTP nahi aa raha, tere number pe aaya kya? Mere account mein login karna hai",0,tricky_safe
+Congratulations bhai! Tera selection ho gaya TCS mein. Party do aaj!,0,tricky_safe
+"Free mein pizza mil raha hai Dominos pe aaj, offer app mein dikh raha hai, order kar le",0,tricky_safe
+"Mummy ka PhonePe pe paise bhejne hain, UPI ID bata do apni",0,tricky_safe
+"Arre job ki baat sun, Rahul ke bhai ki company mein vacancy hai, resume bhej do, koi fees nahi hai",0,tricky_safe
+"Tera loan ka form maine bhar diya hai, bank manager ne kaha hai kal documents le aana branch pe",0,tricky_safe
+"Lottery ticket kharida tha Punjab State wala, result kal aayega, fingers crossed bhai",0,tricky_safe
+"Sir aapka account number galat tha isliye payment fail hua. Sahi number bhejiye, hum dobara transfer kar denge.",0,tricky_safe
+"Electricity wale aaye the meter check karne, bol rahe the bill is mahine kam aayega",0,tricky_safe
+"Bhai ye link khol ke dekh, hamare college ka official result portal hai: results.pbi.ac.in",0,tricky_safe
+"Dost ne bola hai ki Zerodha pe demat account kholna chahiye, tu bata kaunsa better hai?",0,tricky_safe
+"Arre yaar kal ka bill kisne bhara? Mujhe Rs 450 bhejne the, UPI ID bol de",0,tricky_safe

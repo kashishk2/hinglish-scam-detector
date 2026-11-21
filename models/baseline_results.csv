@@ -1,0 +1,4 @@
+model,accuracy,scam_precision,scam_recall,scam_f1,cv_f1_(train)
+Linear SVM,0.977,0.976,0.976,0.976,0.961
+Logistic Regression,0.966,0.975,0.951,0.963,0.96
+Naive Bayes,0.955,0.911,1.0,0.953,0.958
